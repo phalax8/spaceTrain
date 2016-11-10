@@ -1,4 +1,4 @@
 # Tren espacial
 
-Projecto to develop a mobile game based in unity.
+Project to develop a mobile game based in unity.
 
